@@ -1,2 +1,1 @@
-Assignments of all the courses in the Deep Learning Specialization taught by Prof. Andrew Ng
-
+All the assignments of the Deep Learning Specialization course taught by Andrew NG.
